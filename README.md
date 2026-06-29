@@ -1,7 +1,5 @@
 <div align="center">
-
-<img src="mlg1-removebg-preview.png" alt="Morocco Luxury Garage" width="200"/>
-
+https://github.com/user-attachments/assets/8af142b1-184d-4a7d-aff7-df77fac8a09
 # MOROCCO LUXURY GARAGE
 
 ### La Référence du Prestige Automobile au Maroc
