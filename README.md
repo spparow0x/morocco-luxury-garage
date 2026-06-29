@@ -1,7 +1,9 @@
 <div align="center">
-<img src="mlg1-removebg-preview.png" alt="Morocco Luxury Garage" width="200"/>
+
 # MOROCCO LUXURY GARAGE
+
 ### The Ultimate Luxury Automotive Platform in Morocco
+
 [![GitHub](https://img.shields.io/badge/GitHub-spparow0x-181717?style=for-the-badge&logo=github)](https://github.com/spparow0x)
 [![PHP](https://img.shields.io/badge/PHP-8.x-777BB4?style=for-the-badge&logo=php&logoColor=white)](https://www.php.net/)
 [![MySQL](https://img.shields.io/badge/MySQL-8.0-4479A1?style=for-the-badge&logo=mysql&logoColor=white)](https://www.mysql.com/)
@@ -9,6 +11,7 @@
 [![CSS3](https://img.shields.io/badge/CSS3-Custom-1572B6?style=for-the-badge&logo=css3&logoColor=white)](https://developer.mozilla.org/en-US/docs/Web/CSS)
 [![License](https://img.shields.io/badge/License-MIT-gold?style=for-the-badge)](LICENSE)
 ---
+
 **A premium digital platform for importing, customizing, and maintaining luxury & exotic vehicles in Morocco.**
 [🌐 Demo](#demo) · [🚀 Installation](#-installation) · [📖 Documentation](#-project-architecture) · [📬 Contact](#-author)
 </div>
