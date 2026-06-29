@@ -224,7 +224,7 @@ The design is built around a luxurious and immersive visual identity:
 
 <div align="center">
 
-Built with 💛 by [**@spparow0x**](https://github.com/spparow0x)
+Built with 💛 by [**@spparow0x**](https://github.com/spparow0x) (el karkoubi youssef)
 
 </div>
 
